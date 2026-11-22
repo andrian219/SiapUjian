@@ -69,6 +69,3 @@ Perkiraan waktu: 10 menit. Dilakukan sekali saja.
 - Kode peserta hanya bisa dipakai masuk **satu kali**. Siswa yang keluar/terkunci hanya bisa masuk lagi setelah di-**Reset** oleh guru dari halaman Rekap.
 - Kalau nanti ada pembaruan file `Code.gs`, tempel ulang kodenya lalu terbitkan ulang dengan cara: **Deploy > Kelola deployment > ikon pensil > Versi: Versi baru > Deploy**. Alamat aplikasi web tidak berubah, jadi `index.html` tidak perlu diubah.
 
----
-
-*SiapUjian dibagikan gratis untuk guru-guru Indonesia. Silakan dipakai dan dibagikan lagi.*
